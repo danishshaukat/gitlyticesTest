@@ -2,4 +2,4 @@ public class myclass
 {
 my program
 }
-goto
+goto base
